@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985802374619",
+    "project_id": "miprimeraapp-7413b",
+    "storage_bucket": "miprimeraapp-7413b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985802374619:android:e6abd87486375fca407bfe",
+        "android_client_info": {
+          "package_name": "com.bryan.guia_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985802374619-otgqjouemm3tjj3kosrptchlbvar92t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1r6BqwpvpIgAYPEwf6ug_9V1vCkp6yPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985802374619-otgqjouemm3tjj3kosrptchlbvar92t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

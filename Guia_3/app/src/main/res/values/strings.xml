@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Guia_3</string>
+    <string name="txtEmail">E-mail</string>
+    <string name="txtPass">Password</string>
+    <string name="login">Log in</string>
+    <string name="enviar">Send</string>
+    <string name="Texto">Guia Practica 3</string>
+    <string name="btnText">Press</string>
+    <string name="txt_message">Enter a message</string>
+    <string name="btn_enviar">SEND</string>
+    <string name="txtView">TextView</string>
+    <string name="IniciarSession">Log in</string>
+    <string name="Registrarse">Check in</string>
+    <string name="mensaje">Message</string>
+    <string name="Camara">Camera</string>
+</resources>
